@@ -2,8 +2,8 @@
 
 Given the ```head``` of a linked list, remove the ```nth``` node from the end of the list and return its head.
 
-### Example 1:
 ![img.jpg](assets/question19.jpg)
+### Example 1:
 
 
 ```
